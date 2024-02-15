@@ -82,7 +82,7 @@ export default function Projects() {
         "A working Contact Me section which redirects to the native email app.",
       ],
       repo: {
-        git: "https://github.com/",
+        git: "https://github.com/Sanjeet76/portfolio",
        
       },
     }, 
