@@ -22,11 +22,11 @@ export default function Projects() {
       date: "July 2022 - october 2022",
       points: [
         "A full stack MERN Project .",
-        "Uses React and Redux at the Frontend for state management and component architecture",
-        "Utilizes Node.js and MongoDB at the Backend for server-side logic and database management.",
-        "Offers comprehensive CRUD functionality, enabling users to Create, Read, Update, and Delete data seamlessly.",
-        "Incorporates robust data validation mechanisms wherever necessary to ensure data integrity and security throughout the application.",
-        " integrates the Stripe payment gateway, providing users with a secure and hassle-free online transaction experience."
+        " React and Redux at the Frontend for state management and component architecture",
+        " Node.js and MongoDB at the Backend for server-side logic and database management.",
+        "CRUD functionality enabling users to Create, Read, Update, and Delete data seamlessly.",
+        "Ensures data integrity/security with robust validation and integrates Stripe for seamless, secure transactions.",
+        
       ],
       repo: {
         git: "https://github.com/Sanjeet76/onlineShopping",
@@ -44,7 +44,7 @@ export default function Projects() {
         "/jupiter.png"
        
       ],
-      date: "July 2022 - December 2022",
+      date: "August 2021 - September 2021",
       points: [
         "Used Pandas and NumPy in Jupyter Notebook to prepare the heart disease dataset for analysis.",
         " Implemented scikit-learn's logistic regression for heart disease prediction.",
@@ -73,7 +73,7 @@ export default function Projects() {
         "tailwind.png",
         "html.png",
       ],
-      date: "July 2022 - December 2022",
+      date: "November 2023 - December 2023",
       points: [
         "A Portfolio webpage made using NextJS and TypeScript",
         "Uses Framer-motion for all the animations and transitions ",
