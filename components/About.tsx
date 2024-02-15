@@ -36,7 +36,7 @@ const About = () => {
                 </h4>
                 <p className='text-sm '>
 
-                    Hi! I'm Sanjeet Kumar. I'm a Computer Science undergraduate equipped with skills in React, Next.js, JavaScript, DevOps, AWS, and Tailwind CSS for modern web development. I excel in building dynamic and interactive user interfaces and web applications using React and Next.js. My expertise extends to crafting robust frontend and backend solutions with JavaScript. Additionally, my familiarity with DevOps practices ensures seamless integration, deployment, and maintenance of software projects on cloud platforms like AWS. With proficiency in Tailwind CSS, I create sleek and responsive designs, delivering intuitive user experiences across various devices and platforms.
+                Hi! I&apos;m Sanjeet Kumar. I&apos;m a Computer Science undergraduate equipped with skills in React, Next.js, JavaScript, DevOps, AWS, and Tailwind CSS for modern web development. I excel in building dynamic and interactive user interfaces and web applications using React and Next.js. My expertise extends to crafting robust frontend and backend solutions with JavaScript. Additionally, my familiarity with DevOps practices ensures seamless integration, deployment, and maintenance of software projects on cloud platforms like AWS. With proficiency in Tailwind CSS, I create sleek and responsive designs, delivering intuitive user experiences across various devices and platforms
                 </p>
             </div>
 
